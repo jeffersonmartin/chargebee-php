@@ -1,10 +1,10 @@
 {
-    "name": "chargebee/chargebee-php",
+    "name": "jeffersonmartin/chargebee-php",
     "type": "library",
     "description": "ChargeBee API client implementation for PHP",
     "keywords": ["chargebee", "payments", "subscription billing", "recurring billing"],
     "license": "MIT",
-    "homepage": "https://github.com/chargebee/chargebee-php",
+    "homepage": "https://github.com/jeffersonmartin/chargebee-php",
     "require" : {
       "php": ">=5.4",
       "ext-curl": "*"
